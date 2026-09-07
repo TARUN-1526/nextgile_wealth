@@ -1,0 +1,10 @@
+[
+  "backend/tests/test_api.py::test_governance_dual_approval_and_sec204_audit",
+  "backend/tests/test_api.py::test_health_check",
+  "backend/tests/test_api.py::test_rbac_beneficiary_account_restriction",
+  "backend/tests/test_api.py::test_rbac_erisa_participant_privacy",
+  "backend/tests/test_api.py::test_rbac_household_access_isolation",
+  "backend/tests/test_api.py::test_reporting_generation",
+  "backend/tests/test_api.py::test_tax_loss_harvesting_workflow",
+  "backend/tests/test_api.py::test_users_list_and_current_user"
+]

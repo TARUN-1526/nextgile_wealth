@@ -1,0 +1,6 @@
+{
+  "name": "Nexgile-WealthAgent",
+  "description": "A secure wealth management portal providing unified digital experiences for individual clients, families, retirement-plan sponsors, participants, and advisory teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
